@@ -1,3 +1,5 @@
+BaseReader.pkl filter=lfs diff=lfs merge=lfs -text
+yelp_academic_dataset_review.json filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.sh filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
