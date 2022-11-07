@@ -1,3 +1,9 @@
+ "Studying the Impact of Data Disclosure Mechanism in Recommender Systems via Simulation"
+
+
+
+
+
 This project is related to the source code of "Studying the Impact of Data Disclosure Mechanism in Recommender Systems via Simulation". 
 
 This project is running on the Yelp and Movielen dataset and the raw dataset with the clean scripts are also stored in the '/src/data' folder.
